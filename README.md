@@ -8,4 +8,4 @@ The purpose of this project is to build a dashboard using HTML and Javascript, t
 - Languages: HTML , Javascript (JS6+)
 
 # Results
-I was able to create an interactive website dashboard that users can use to view different subjects and the type of bacteria found on their bellybuttons. The subejcts name's are anaonymous and are identified using ID numbers. There is a dropdown menu to the left tht allows users to select a different ID number which provides them with information about the subject. An example can be seen [here](https://github.com/somtoesomeju/plotly_deployment/blob/main/Resources/bacteria_dashboard.png)
+I was able to create an interactive website dashboard that users can use to view different subjects and the type of bacteria found on their bellybuttons. The subejcts name's are anaonymous and are identified using ID numbers. There is a dropdown menu to the left tht allows users to select a different ID number which provides them with information about the subject. An example can be seen [here](https://github.com/somtoesomeju/plotly_deployment/blob/main/Resources/bacteria_dashboard.png).
